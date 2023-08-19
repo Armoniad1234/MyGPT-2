@@ -1,5 +1,5 @@
 #!/bin/bash
-# Do this first: chmod +x git-commit.sh
+# Do this first: chmod +x GitUpload.sh
 
 git add .
 git commit -m "No title"
